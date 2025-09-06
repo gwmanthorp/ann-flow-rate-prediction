@@ -1,9 +1,6 @@
 # 🧠 Multi-Layer Perceptron Neural Network Implementation
+## Google Colab Link
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1M77UAwoUoxhgw87zLy4vEoHe2dqIUUn9?usp=sharing)
-
-This project is a from-scratch implementation of a Multi-Layer Perceptron (MLP) neural network using Python and NumPy. The network is trained with the backpropagation algorithm to predict river flow rates based on historical data.
-
-This work was completed as part of the "AI Methods" module at Loughborough University.
 
 ## 🎯 Overview
 

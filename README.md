@@ -38,10 +38,12 @@ The notebook will then execute from top to bottom, displaying the training progr
 ```
 MLP-Neural-Network/
 ├── Backpropagation Neural Network.ipynb  # Main implementation notebook
+├── README.md                             # This file
+├── Report.pdf                            # Full detailed report of process
+├── backpropagation.py                    # The algorithm
 ├── train_data_lagged.xlsx                # Training dataset
 ├── validation_data_lagged.xlsx           # Validation dataset
-├── test_data_lagged.xlsx                 # Test dataset
-└── README.md                             # This file
+└── test_data_lagged.xlsx                 # Test dataset
 ```
 
 ---
